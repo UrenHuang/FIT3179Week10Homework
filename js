@@ -22,7 +22,7 @@
       "bind": { 
         "input": "select", 
         "options": [ 
-          "Null",
+          null,
           "Africa", 
           "Asia", 
           "Europe", 
@@ -31,7 +31,7 @@
           "South America"
         ], 
         "labels":[
-          "Show All", 
+          "Show all",
           "Africa", 
           "Asia", 
           "Europe", 
@@ -156,4 +156,3 @@
     }
   ]
 }
-    
