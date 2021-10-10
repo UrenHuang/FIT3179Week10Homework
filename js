@@ -4,8 +4,7 @@
   "height": 500,
   "title": "Active cases of COVID-19 in various countries",
   "data": {
-    "url": "https://raw.githubusercontent.com/UrenHuang/3179homeworkweek9/main/data/worldometer_data.csv"
-  },
+    "url": "https://raw.githubusercontent.com/UrenHuang/3179homeworkweek9/main/data/worldometer_data.csv"},
   "params": [ 
     {
       "name": "ActiveCases_Above", 
@@ -158,4 +157,3 @@
   ]
 }
     
-
